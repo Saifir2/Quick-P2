@@ -1,0 +1,203 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    border-bottom: 1px solid #d0cece;
+    }
+    .header-content{
+            padding-top: 5px;
+            width: 90%;
+            overflow: hidden;
+            margin-left: 5%;
+            padding-bottom: 5px;
+    }
+    .logo{
+        float: left;
+        width: 25%;
+    }
+    .logo img{
+    }
+    .menu{
+        float: right;
+        width: 30%;
+        padding-top: 20px;
+    }
+    .menu ul{
+            text-align: right;
+            list-style: none;
+            overflow: hidden;
+    }
+    .menu li{
+            float: left;
+            padding-left: 28px;
+    }
+.content{
+    width: 60%;
+    padding-left: 20%;
+}
+.heading{
+    text-align: center;
+}
+.heading h1{
+    padding-top: 10px;
+    font-size: 45px;
+    color: rgb(90, 90, 161);
+}
+.heading p{
+
+padding-top: 10px;
+}
+.heading img{
+
+padding-top: 25px;
+}
+.heading h1:first-child{
+    
+padding-top: 15px;
+    
+color: black;
+    
+font-size: 45px;
+}
+.main_content{
+
+overflow: hidden;
+}
+.left_content{
+
+text-align: right;
+
+width: 40%;
+
+float: left;
+
+padding-left: 8%;
+}
+.left_content h1{
+
+font-size: 40px;
+
+color: red;
+}
+.left_content p{
+
+}
+.right_content{
+
+text-align: left;
+
+width: 40%;
+
+float: right;
+
+padding-right: 5%;
+}
+.right_content h1{
+
+font-size: 40px;
+}
+.creativity{
+
+width: 80%;
+
+overflow: hidden;
+
+padding-left: 10%;
+}
+.creativity_one{
+
+width: 32%;
+
+float: left;
+
+background-color:#eeeef0:
+}
+.creativity_one h3{
+
+padding-left: 8%;
+}
+.creativity_one img{
+
+padding-left: 10%;
+}
+.creativity_one p{
+
+padding-left: 8%;
+
+padding-right: 8%;
+}
+.creativity_two{
+
+width: 32%;
+
+float: left;
+
+background-color: #eeeef0;
+
+margin-left: 2%;
+}
+.creativity_two p{
+
+padding-left: 8%;
+
+padding-right: 8%;
+}
+.creativity_two img{
+
+padding-left: 7%;
+}
+.creativity_two h3{
+
+padding-left: 8%;
+}
+.creativity_three{
+
+width: 32%;
+
+float: right;
+
+background-color: ##fcf7f8;
+}
+.creativity_three h3{
+
+padding-left: 10%;
+}
+.creativity_three p{
+
+padding-left: 9%;
+
+padding-right: 6%;
+}
+.creativity_three img{
+    
+padding-left: 11%;
+}
+footer{
+
+background-color: #3f57dd;
+
+text-align: center;
+
+padding-top: 15px;
+
+padding-bottom: 15px;
+}
+footer p{
+
+color: #919191;
+
+display: inline;
+}
+footer h4{
+    
+color: white;
+    
+display: inline;
+    
+letter-spacing: 4px;
+    
+padding-left: 10px;
+    
+padding-right: 10px;
+}
